@@ -1,0 +1,17 @@
+.mybtn {
+    padding: 15px 45px;
+    background-color: #F1CDB3;
+    border: 1px solid #F1CDB3;
+    border-radius: 100px;
+    color: #292929;
+    font-family: 'Georgia';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 130%;
+    letter-spacing: 0.06em;
+    cursor:pointer;
+}
+
+.mybtn:hover {
+    background-color: #FDDCC4;
+}
