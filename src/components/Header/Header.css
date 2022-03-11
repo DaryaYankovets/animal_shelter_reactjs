@@ -62,7 +62,7 @@
     }
 }
 /* ---------------------- media 700px --------------------------- */
-@media screen and (max-width: 710px) { 
+@media screen and (max-width: 767px) { 
     .nav {
         display: none;
     }

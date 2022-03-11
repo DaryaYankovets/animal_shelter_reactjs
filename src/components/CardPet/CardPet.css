@@ -1,0 +1,29 @@
+.card-pet_container {
+    width: 270px;
+    height: 435px;
+    background-color: #FAFAFA;
+    border-radius: 9px;
+    /* border: 1px solid green; */
+}
+
+.container_image img {
+    margin-bottom: 30px;
+    width: 270px;
+    height: 270px;
+}
+
+.container_name {
+    margin-bottom: 30px;
+    font-family: 'Georgia';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #545454;
+}
+
+.container_btn {
+    width: 100%;
+    text-align: center;
+}
