@@ -29,7 +29,7 @@ export default function Header() {
                     <div className="line line3"></div>
                 </div> 
                 <nav className="header_nav_adaptive">
-                    <ul className="nav-list-adaptive">
+                    <ul>
                         <li><a href="#">About the shelter</a></li>
                         <li><a href="#">Our pets</a></li>
                         <li><a href="#">Help the shelter</a></li>

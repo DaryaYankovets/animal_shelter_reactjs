@@ -1,13 +1,18 @@
 import './App.css';
 import StartScreen from './components/StartScreen/StartScreen';
 import Header from './components/Header/Header';
+import About from './components/About/About';
 
 function App() {
   return (
-    <main className='app-container'>
+    <div className='app-container'>
       <Header />
-      <StartScreen />
-    </main>
+      <main>
+        <StartScreen />
+        <About />
+      </main>
+    </div>
+    
   );
 }
 
